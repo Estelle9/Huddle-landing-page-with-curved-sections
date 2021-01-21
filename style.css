@@ -296,6 +296,10 @@ footer p {
     line-height: 3em;
 }
 
+.contacts span {
+    margin-left: 1em;
+}
+
 .phone, .mail {
     display: flex;
     justify-content: start;
